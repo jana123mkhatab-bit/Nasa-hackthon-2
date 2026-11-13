@@ -1,0 +1,9 @@
+id,name,kind,mass_kg,thrust_kN,isp_s,source
+rl10,RL10B-2 upper-stage engine,engine,301,110.1,465.5,NASA / Aerojet Rocketdyne RL10 fact sheet (verify on source page)
+j2,J-2 engine (Saturn V upper stages),engine,1438,1033,421,NASA Saturn V engine data - NTRS (verify on source page)
+rs25,RS-25 engine (Space Shuttle / SLS),engine,3527,2279,452,NASA RS-25 fact sheet - vacuum thrust (verify on source page)
+f1,F-1 engine (Saturn V first stage),engine,8391,6770,263,NASA Saturn V engine data - sea-level thrust (verify on source page)
+capsule,Orion crew module,payload,10386,0,0,NASA Orion Reference Guide (verify on source page)
+esm,Orion European Service Module,payload,13500,0,0,NASA / ESA Orion fact sheet (verify on source page)
+scanner,Survey scanner array,payload,800,0,0,GAME BALANCE value (not a NASA figure)
+dish,Deep-space high-gain dish,payload,450,0,0,GAME BALANCE value (not a NASA figure)
